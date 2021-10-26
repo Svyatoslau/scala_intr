@@ -5,7 +5,7 @@ object StringOperations extends App{
 
   println(aString.length)
   println(aString.charAt(1))
-  println(aString.substring(0, 2))
+  println(aString.substring(1))
   println(aString.split(" ").toList)
   println(aString.startsWith("He"))
   println(aString.replace("!",","))
