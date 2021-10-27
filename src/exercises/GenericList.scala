@@ -1,0 +1,6 @@
+package exercises
+
+class GenericList {
+
+}
+
