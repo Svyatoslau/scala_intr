@@ -66,5 +66,6 @@ object Inheritance extends App{
   // описывают конкретное поведение для конкретной ситуации
   trait PublicCon{
     def connection: Boolean
+
   }
 }
